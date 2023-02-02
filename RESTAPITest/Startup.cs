@@ -28,6 +28,7 @@ namespace RESTAPITest
                     }
                 });
             ConfigureAuth(app);
+            app.MapSignalR();
         }
     }
 }

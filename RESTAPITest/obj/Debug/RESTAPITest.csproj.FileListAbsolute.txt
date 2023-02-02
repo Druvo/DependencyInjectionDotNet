@@ -146,3 +146,9 @@ D:\Projects\RND\RESTAPITest\RESTAPITest\bin\System.Web.Http.Owin.dll
 D:\Projects\RND\RESTAPITest\RESTAPITest\bin\System.Web.Http.Owin.xml
 D:\Projects\RND\RESTAPITest\RESTAPITest\bin\Swashbuckle.Core.dll
 D:\Projects\RND\RESTAPITest\RESTAPITest\bin\WebActivatorEx.dll
+D:\Projects\RND\RESTAPITest\RESTAPITest\bin\Microsoft.AspNet.SignalR.Core.dll
+D:\Projects\RND\RESTAPITest\RESTAPITest\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\Projects\RND\RESTAPITest\RESTAPITest\bin\Microsoft.AspNet.SignalR.Core.pdb
+D:\Projects\RND\RESTAPITest\RESTAPITest\bin\Microsoft.AspNet.SignalR.Core.xml
+D:\Projects\RND\RESTAPITest\RESTAPITest\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+D:\Projects\RND\RESTAPITest\RESTAPITest\bin\Microsoft.AspNet.SignalR.SystemWeb.xml

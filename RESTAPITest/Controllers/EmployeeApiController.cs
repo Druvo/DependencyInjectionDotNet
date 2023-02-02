@@ -36,7 +36,12 @@ namespace RESTAPITest.Controllers
                 var data = ctx.Employee.Add(employeeModel);
                 ctx.SaveChanges();
                 if (data != null)
+                {
+                    var hubContext = Microsoft.AspNet.SignalR.GlobalHost.ConnectionManager.GetHubContext<ChatHub>();
+                    hubContext.Clients.All.SendMessage(data.EmployeeName, "Employee added!");
                     return Ok("Employee added!");
+                }
+
                 return BadRequest();
             }
         }
